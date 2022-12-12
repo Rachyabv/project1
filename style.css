@@ -1,0 +1,45 @@
+
+header{background-color: rgb(233, 18, 18);
+    
+}
+header .nav-item .nav-link{
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+
+
+.banner .dining h1 span{
+    color: rgb(236, 20, 20);
+    
+}
+.banner .dining h1{
+    font-size: 4rem;
+}
+.dining button{
+    background-color: rgb(216, 12, 12);
+    color: aliceblue;
+    border: 0ch;
+    outline: 0ch;
+    padding: 1.2;
+    border-radius: 8px;
+}
+.dining button:hover{
+    background-color: aliceblue;
+    color: black;
+}
+footer{
+    background-color: rgb(9, 12, 71);
+    color: aliceblue;
+}
+.buy button{
+    background-color: rgb(216, 21, 24);
+    border-radius: 10px;
+    color: aliceblue;
+    border: 0cm;
+    text-justify: auto;
+    text-align: center;
+}
+
+
